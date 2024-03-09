@@ -1,0 +1,7 @@
+1) GorevYonetici.backpac adlı dosyayı MSSQL server için Import Data-tier application seçeneği ile Database adı GorevYoneticisi olacak şeklide ekleyiniz.
+2) Kullandığını Server local host ise (1 tane server varsa) direkt çalıştırabilirsiniz.
+3) Birden fazla server var ise database dosyasını ekledikten sonra Program.cs dosyasından server adını kullandığınız server ile değiştirmelisiniz.
+4) Rapor eklemek için öncelikle kullanıcı oluşturmalısınız. Veritabanına kaydettikten sonra tekrar oluşturmanıza gerek yok.
+5) JWT Token biliginizi görüntülemek için giriş yapmalısınız.
+6) Token bilgileriniz göreceksiniz. Son kullanma tarihi ve Token adresiniz olarak.
+7) Bu token bilgisi ile rapor girişi yapabilrsiniz.
